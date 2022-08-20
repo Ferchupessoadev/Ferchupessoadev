@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fernando14377,i'm 16 years old,i'm a developer web,i know html,css,javascript and i'm learn python
+- 👀 I’m interested in learn new things
+- 🌱 I’m currently learning pyhon and english
+- 💞️ I am looking to collaborate on some project that requires me to use all my knowledge
+- 📫 How to reach me.you can contact me by email:fernandomatiaspessoa471@gmail.com or by my instagram:@Ferchupessoa
