@@ -6,8 +6,8 @@
 - 📫 How to reach me.you can contact me by email:fernandomatiaspessoa471@gmail.com or by my instagram:@Ferchupessoa
 
 <<español>>
-- 👋 hola,me llamo Fernando Pessoa tengo 16 años,soy un desarrollador web concosco HTML5,CSS3,JS y estoy aprendiendo python desde un curso es de jon mircha.
+- 👋 hola,me llamo Fernando Pessoa tengo 16 años,soy un desarrollador web conosco HTML5,CSS3,JS y estoy aprendiendo python desde un curso, es de jon mircha.
 - 👀 estoy interesado en aprender cosas nuevas.
-- 🌱 actuialmente estou aprendiendo python y inglés por mi cuenta y obviamente estoy en la secundaria en una escuela Técnica estoy en la tecnicatura de computación.   
+- 🌱 actualmente estoy aprendiendo python y inglés por mi cuenta y obviamente estoy en la secundaria en una escuela Técnica estoy en la tecnicatura de computación.   
 - 📫 pueden contactarme a mi email:fernandomatiaspessoa471@gmail.com o por mi instagram:@Ferchupessoa.
-Listo este es mi readme personal .
+Listo este es mi readme personal que mas queres ahre.
