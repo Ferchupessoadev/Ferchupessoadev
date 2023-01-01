@@ -1,2 +1,1 @@
-- 👋 hola,me llamo Fernando Pessoa tengo 16 años,soy un desarrollador web conosco HTML5,CSS3,JS y algo de python.
-- 📫 pueden contactarme a mi email:fernandomatiaspessoa471@gmail.com o por mi instagram:@Ferchupessoa.
+- :books: Aprendiendo python e inglés
