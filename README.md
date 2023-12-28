@@ -6,4 +6,5 @@
 🌐 Explorando el mundo del código y la innovación.
 
 # Redes
-<i class="bi bi-twitter"></i> [twitter](https://twitter.com/ferchupessoa)
+[twitter](https://twitter.com/ferchupessoa)
+<i class="bi bi-twitter"></i>
