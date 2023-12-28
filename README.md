@@ -8,6 +8,8 @@
 # Redes
 [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fferchupessoa)](https://twitter.com/ferchupessoa)
 
+[![instagram-logo](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/ferchupessoa)
+
 
 
 
