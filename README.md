@@ -6,6 +6,7 @@
 🌐 Explorando el mundo del código y la innovación.
 
 # Redes
-![Twitch Status](https://img.shields.io/twitch/status/%40ferchupessoa)
+![Twitch Status](https://img.shields.io/twitch/status/%3Aferchupessoa)
+
 
 
