@@ -6,4 +6,5 @@
 🌐 Explorando el mundo del código y la innovación.
 
 # Redes
-[twitter](https://twitter.com/ferchupessoa)
+![Twitch Status](https://img.shields.io/twitch/status/ferchupessoa)
+
