@@ -6,5 +6,4 @@
 🌐 Explorando el mundo del código y la innovación.
 
 # Redes
-[twitter](https://twitter.com/ferchupessoa)
-![twitter-logo-svgrepo-com](https://github.com/fernando14377/fernando14377/assets/107710139/e0b5f172-794d-4410-8987-3291c6777d17)
+<i class="bi bi-twitter"></i>[twitter](https://twitter.com/ferchupessoa)
