@@ -7,4 +7,4 @@
 
 # Redes
 [twitter](https://twitter.com/ferchupessoa)
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/https://twitter.com/ferchupessoa)
