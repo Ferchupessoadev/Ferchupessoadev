@@ -6,7 +6,8 @@
 🌐 Explorando el mundo del código y la innovación.
 
 # Redes
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fferchupessoa)
+
 
 
 
