@@ -1,11 +1,5 @@
 :wave: ¡Hola! soy de Concordia, Entre Rios Argentina.
 
-💻 Programo desde los 12, estudiante en Escuela Técnica 2 Independencia en la tecnicatura de programación.
+programo en html...
 
-🌐 Explorando el mundo del código y la innovación.
-
-
-
-
-
-
+es un chiste mamones
