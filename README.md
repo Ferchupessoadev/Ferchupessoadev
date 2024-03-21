@@ -2,4 +2,4 @@
 
 programo en html...
 
-es un chiste mamones
+Es un chiste.
