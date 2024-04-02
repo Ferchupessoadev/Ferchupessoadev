@@ -1,5 +1,1 @@
-:wave: ¡Hola! soy de Concordia, Entre Rios Argentina.
-
-programo en html...
-
-Es un chiste.
+:wave: ¡Hola! soy de Entre Rios Argentina.
