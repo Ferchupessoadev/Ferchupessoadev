@@ -1,2 +1,2 @@
 :wave: Hola Mundo tengo Github.  
-Me gusta tomar mate y como no programar.
+Me gusta tomar mate y claro que si, programar.
