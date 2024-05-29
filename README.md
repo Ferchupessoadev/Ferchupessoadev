@@ -5,7 +5,7 @@
 
 <span>
 <b>Fernando M.Pessoa</b>
-<p>Software developer</p>
-<p>Habilidades</p>
+<b>Software developer</b>
+<b>Habilidades</b>
 </span>
 </p>
