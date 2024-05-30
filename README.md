@@ -19,3 +19,12 @@
   <img width="100" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1024px-PHP-logo.svg.png"/>
 </span>
 
+<span>
+  <img width="60" height="60" src="https://github.com/Ferchupessoadev/Ferchupessoadev/assets/107710139/f6f23172-41c7-46cf-9336-f9d3d02e932f"/>
+</span>
+
+<span>
+  <img width="60" height="60" src="https://github.com/Ferchupessoadev/Ferchupessoadev/assets/107710139/e1aca59f-f5e1-4f61-a1b1-81eedcfa598e" />
+</span>
+
+
