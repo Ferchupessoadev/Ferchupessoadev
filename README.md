@@ -2,7 +2,7 @@
 ### Fernando Pessoa.  
 ### Software developer.  
 
-## Skills
+# Skills
 <span>
   <img width="60" height="60" src="https://github.com/Ferchupessoadev/Ferchupessoadev/assets/107710139/ae689b6c-c0ef-4a25-aa84-b52d6a683da3"/>
 </span>
