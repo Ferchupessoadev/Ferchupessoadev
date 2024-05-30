@@ -1,6 +1,6 @@
 # :wave: Hola Mundo, tengo Github.
 ### Fernando Pessoa.  
-<p style="color:blue; ">Software Developer</p>  
+<p style="color:#33f;">Software Developer</p>  
 
 # Skills
 <span>
