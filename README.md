@@ -6,6 +6,6 @@ Me encanta tomar mate.
 # Skills
 <div align="center">
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,mysql,react,sass,tailwind,vite,php,bootstrap,astro,linux,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,mysql,react,sass,tailwind,vite,php,bootstrap,astro,linux,laravel" />
   </a>
 </div>
