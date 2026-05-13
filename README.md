@@ -7,12 +7,14 @@ Soy desarrollador apasionado por la informática, las redes y la construcción d
 Trabajo principalmente en backend, infraestructura y desarrollo de aplicaciones web de alto rendimiento.
 
 
+
 ## 🚀 Sobre mí
 
 - 🐧 Usuario avanzado de Linux (dwm, minimal setups, terminal-driven workflow)
 - ⚙️ Me gusta gestionar infraestructura, servidores y redes
 - 🧱 Construyo mis propias herramientas, configs y frameworks
 - 💼 Freelancer trabajando en proyectos reales
+
 
 
 ## 🛠️ Stack tecnológico
@@ -40,6 +42,7 @@ Trabajo principalmente en backend, infraestructura y desarrollo de aplicaciones 
 - Neovim
 
 
+
 ## 📂 Proyectos destacados
 
 ### 🧠 API Asistente de Notas
@@ -57,6 +60,7 @@ Mi entorno completo:
 - Neovim
 - Tmux
 - Scripts personalizados
+
 
 
 ## 🧪 En lo que estoy trabajando
