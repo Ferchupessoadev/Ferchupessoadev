@@ -6,7 +6,6 @@
 Soy desarrollador apasionado por la informática, las redes y la construcción de sistemas eficientes.  
 Trabajo principalmente en backend, infraestructura y desarrollo de aplicaciones web de alto rendimiento.
 
----
 
 ## 🚀 Sobre mí
 
@@ -15,7 +14,6 @@ Trabajo principalmente en backend, infraestructura y desarrollo de aplicaciones 
 - 🧱 Construyo mis propias herramientas, configs y frameworks
 - 💼 Freelancer trabajando en proyectos reales
 
----
 
 ## 🛠️ Stack tecnológico
 
@@ -41,7 +39,6 @@ Trabajo principalmente en backend, infraestructura y desarrollo de aplicaciones 
 - Bash / Shell scripting
 - Neovim
 
----
 
 ## 📂 Proyectos destacados
 
@@ -61,7 +58,6 @@ Mi entorno completo:
 - Tmux
 - Scripts personalizados
 
----
 
 ## 🧪 En lo que estoy trabajando
 
@@ -70,7 +66,6 @@ Mi entorno completo:
 - 📱 Apps móviles conectadas a mis APIs
 - 🌐 Landing pages de alto rendimiento
 
----
 
 ## 🎯 Objetivos
 
@@ -79,7 +74,6 @@ Mi entorno completo:
 - Desarrollar software libre con impacto real
 - Construir mi propia infraestructura y servicios
 
----
 
 ## 🌐 Links
 
@@ -87,13 +81,11 @@ Mi entorno completo:
 - 💼 LinkedIn: https://linkedin.com/in/ferchudev
 - 💻 GitHub: https://github.com/Ferchupessoadev
 
----
 
 ## ⚡ Filosofía
 
 > "Si no entendés cómo funciona por dentro, no lo controlás."
 
----
 
 ## ☕ Bonus
 
